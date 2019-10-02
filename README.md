@@ -1,4 +1,4 @@
-#Use the Sigfox Network Emulator with India Configuration
+# Use the Sigfox Network Emulator with India Configuration
 
 The Sigfox network in India will use a dedicated radio configuration, called [RC6](https://build.sigfox.com/sigfox-certification-tests/#sigfox-rf-and-protocol-rc6-documents).
 This configuration is very similar to the RC1, used in Europe, Middle East and Africa. The main difference is that the central frequency is at 865MHz instead of 868MHz.
@@ -6,6 +6,8 @@ This configuration is very similar to the RC1, used in Europe, Middle East and A
 This tutorial will show you how to configure a RC1 development kit (here, a [Unashield](https://unabiz.github.io/unashield/) and use it in RC6 configuration in India.
 
 Thanks to **Ajay Nair**, a Sigfox team member in India, who wrote this tutorial!
+
+
 
 ## Setup
 
