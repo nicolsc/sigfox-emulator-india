@@ -9,6 +9,10 @@ Thanks to **Ajay Nair**, a Sigfox team member in India, who wrote this tutorial!
 
 
 
+
+
+
+
 ## Setup
 
 You need 
@@ -76,4 +80,4 @@ In the messages panel (example below), you will see :
   * _Downlink_ means that the device request a reply, and will wake up after a few seconds to receive it
   * You will see an _Out of Band_ message, which is the _ACK_ sent by the device (including voltage & received signal strength information) after receiving the downlink response
 
-![Messages received](./medias/SNE-whitelist.png)
+![Messages received](./medias/SNE-messages.png)
